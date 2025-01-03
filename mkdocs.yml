@@ -1,0 +1,14 @@
+site_name: 東京物語 - Tokyo Stories
+site_description: "Exploring Tokyo's urban evolution through data and design."
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+extra_css:
+  - styles/custom.css
+nav:
+  - Home: index.md
+  - About: about.md
+  - Team: team.md
+  - Gallery: gallery.md
